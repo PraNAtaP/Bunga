@@ -9,12 +9,12 @@
 :root {
   --dark-color: #000;
   --primary: #fff;
-  --bg-envelope-color: #ffb2df;
-  --envelope-tab: #ff2994;
-  --envelope-cover: #ff2994;
+  --bg-envelope-color: #d1d1d1;
+  --envelope-tab: rgb(253, 253, 253);
+  --envelope-cover: #d1d1d1;
   --shadow-color: rgba(0, 0, 0, 0.2);
   --txt-color: #444;
-  --heart-color: #ffc8e4;
+  --heart-color: #f14199;
 }
 
 body {
