@@ -13,8 +13,8 @@
   --envelope-tab: rgb(253, 253, 253);
   --envelope-cover: #d1d1d1;
   --shadow-color: rgba(0, 0, 0, 0.2);
-  --txt-color: #444;
-  --heart-color: #ffc8e4;
+  --txt-color: #303030;
+  --heart-color: #f14199;
 }
 
 body {
